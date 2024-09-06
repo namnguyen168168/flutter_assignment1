@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
                     height: 300,
                     decoration: BoxDecoration(
                       image: DecorationImage(
-                        image: NetworkImage('https://pixnio.com/free-images/2017/09/21/2017-09-21-06-46-13-1100x733.jpg'), // Replace with actual image URL
+                        image: NetworkImage('https://pixnio.com/free-images/2017/09/21/2017-09-21-06-46-13-1100x733.jpg'),
                         fit: BoxFit.fill,
                       ),
                     ),
